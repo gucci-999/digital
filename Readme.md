@@ -3,6 +3,20 @@
 OpenCVでカメラ映像を取り込み、videocaptureから1フレームずつ読み込む
 読み込んだフレームの輝度の平均値を計算する
 
+# 実行の仕方
+
+Anacoda promptで python capture.py を実行
+
+# 依存ライブラリ
+
+・matplotlib.pyplot
+
+・cv2
+
+# バージョン
+
+Python 3.7.3
+
 # 参考
 
 ・Python+OpenCVでWebカメラの画像を取り込んで処理して表示する話
