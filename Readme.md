@@ -18,4 +18,4 @@ python3でリアルタイムプロット：https://qiita.com/dendensho/items/79e
 ここで紹介されているプログラムをもとにリアルタイムにプロットするプログラムを作成
 
 
-![実行の様子](Users/yuki/Downloads/ディジタル信号処理と画像処理/画像処理/capture.gif)
+![実行の様子](c:Users/yuki/capture.gif)
