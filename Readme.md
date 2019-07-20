@@ -16,3 +16,6 @@ capture3.py : 各フレームの輝度の平均値をグラフにプロットす
 python3でリアルタイムプロット：https://qiita.com/dendensho/items/79e9d2e3d4e8eb5061bc
 
 ここで紹介されているプログラムをもとにリアルタイムにプロットするプログラムを作成
+
+
+![実行の様子](Users/yuki/Downloads/ディジタル信号処理と画像処理/画像処理/capture.gif)
