@@ -10,7 +10,7 @@ videocapture()でカメラ映像を取り込み、read()で1フレームずつ�
 
 # 実行の仕方
 
-Anacoda promptで python capture.py を実行
+Anaconda promptで python capture.py を実行
 
 # 依存ライブラリ
 
