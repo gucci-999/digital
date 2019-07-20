@@ -8,15 +8,11 @@ capture3.py : 各フレームの輝度の平均値をグラフにプロットす
 
 # 参考
 
-【Python】OpenCVで動画を扱う – カメラの接続と動画の保存
+【Python】OpenCVで動画を扱う – カメラの接続と動画の保存　https://code-graffiti.com/connect-with-webcam-using-opencv-in-python/
 
 目次2「動画ファイルとして書き出す」で紹介されているプログラムを引用
 
-https://code-graffiti.com/connect-with-webcam-using-opencv-in-python/
 
-
-Python, OpenCVで動画ファイルからフレームを切り出して保存
+Python, OpenCVで動画ファイルからフレームを切り出して保存　https://note.nkmk.me/python-opencv-video-to-still-image/
 
 目次「すべてのフレームを画像ファイルとして保存」で紹介されているプログラムを引用
-
-https://note.nkmk.me/python-opencv-video-to-still-image/
