@@ -17,5 +17,6 @@ python3でリアルタイムプロット：https://qiita.com/dendensho/items/79e
 
 ここで紹介されているプログラムをもとにリアルタイムにプロットするプログラムを作成
 
+# 実行の様子
 
 ![実行の様子](https://github.com/gucci-999/digital/blob/master/capture.gif)
