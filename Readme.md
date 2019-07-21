@@ -30,7 +30,7 @@ Python 3.7.3
 
 ・python3でリアルタイムプロット：https://qiita.com/dendensho/items/79e9d2e3d4e8eb5061bc
 
-「解決策」で紹介されているプログラムを参考に、リアルタイムにプロットするプログラムを作成
+「解決策」で紹介されているプログラムを参考に、動的にグラフにプロットするプログラムを作成
 
 ・【Python入門】timeモジュールでプログラムの実行時間を計測する方法：https://www.sejuku.net/blog/23955#time-2
 
