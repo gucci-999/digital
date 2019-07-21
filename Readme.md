@@ -16,6 +16,8 @@ Anaconda promptで python capture.py を実行
 
 ・matplotlib.pyplot
 
+・time
+
 ・cv2
 
 # バージョン
