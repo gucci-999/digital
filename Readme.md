@@ -38,7 +38,7 @@ Python 3.7.3
 
 # 実行の様子
 
-![実行の様子](https://github.com/gucci-999/digital/blob/master/capture.gif)
+![実行の様子](https://github.com/gucci-999/digital/blob/master/realtime.gif)
 
 # 実行結果
 
